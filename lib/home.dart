@@ -32,7 +32,7 @@ class _homeState extends State<home> {
                       // height: MediaQuery.of(context).size.height*0.05,
                       child: Column(
                         children: [
-                           Text("IPO",style: TextStyle(fontSize: 22,color: Colors.white),)
+                           Text("HOME",style: TextStyle(fontSize: 22,color: Colors.white),)
                         ],
                         mainAxisAlignment: MainAxisAlignment.center,
                       ),
